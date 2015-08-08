@@ -1,3 +1,16 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://cirpo.org"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "cirpo's blog pota"
+paginate = 10
+disqusShortname = "cirpo"
+
+
+[author]
+    name = "cirpo"
+    twitter = "http://twitter.com/cirpo"
+    url = "http://github.com/cirpo"
+
+[params]
+  twitterName = "cirpo"
+  githubName = "cirpo"
+  twitter = "cirpo"
